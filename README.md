@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Mediation Zone<br>Love to write business logic<br><br>Talking about Personal Stuff:<br>👨‍🎓 I pursued my graduation in CS from SIT Lonavala.<br>💬 Highly interested in collaborating, working, R&D on Trending Tech.<br>💪 Also love to backtrack and perform reverse engineering.<br><br>🌱 I'm currently Exploring:<br>Tools and technologies around MZ.<br>Quicksight, It's analysis/visualization tools powered by aws.<br>Telco IT.<br>📬 How to reach me: https://www.linkedin.com/in/naumanzari<br>
+I'm currently working as a Mediation Zone Developer<br>Previously worked on Jenkins & ReactJS<br>Love to write business logic<br><br>Talking about Personal Stuff:<br>👨‍🎓 I pursued my graduation in CS from SIT Lonavala.<br>💬 Highly interested in collaborating, working, R&D on Trending Tech.<br>💪 Also love to backtrack and perform reverse engineering.<br><br>🌱 I'm currently Exploring:<br>* Tools and technologies around MZ.<br>* Quicksight, It's analysis/visualization tools powered by aws.<br>* Telco IT.<br>📬 How to reach me: https://www.linkedin.com/in/naumanzari<br>
 
 
 ## 🌐 Socials:
